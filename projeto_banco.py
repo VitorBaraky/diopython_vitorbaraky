@@ -54,7 +54,6 @@ while True:
             print("-------- EXTRATO BANCÁRIO --------")
             for i in range(numero_saques):
                 print(f"Saque {i+1}: R$ {saque[i]:.2f}")
-
             else:
                 for i in range(numero_depositos):
                     print(f"Deposito {i+1}: R$ {deposito[i]:.2f}")
