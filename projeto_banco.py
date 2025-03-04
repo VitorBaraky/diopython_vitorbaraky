@@ -1,5 +1,5 @@
 # Declação de variavéis
-saldo = 330
+saldo = 300
 limite = 500
 deposito=[]
 saque=[]
